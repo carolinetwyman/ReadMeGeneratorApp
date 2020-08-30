@@ -1,0 +1,26 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caroline Twyman",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2",
+    "save": "^2.4.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": "ReadMe Project",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/carolinetwyman/ReadMeGeneratorApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/carolinetwyman/ReadMeGeneratorApp/issues"
+  },
+  "homepage": "https://github.com/carolinetwyman/ReadMeGeneratorApp#readme"
+}
