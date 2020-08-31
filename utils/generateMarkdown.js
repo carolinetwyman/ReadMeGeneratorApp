@@ -4,6 +4,8 @@ function generateMarkdown(data) {
   
 # ${data.appname}
 
+![project image](./imgs/inaction.png)
+
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)

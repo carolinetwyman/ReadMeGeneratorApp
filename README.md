@@ -1,6 +1,8 @@
 
   
-# awesome readme generator
+# d
+
+![project image](./imgs/inaction.png)
 
 ## Table of Contents
 * [Description](#description)
@@ -12,22 +14,22 @@
 * [Questions](#questions)
 
 ## Description
-this generates a readme quickly and easily
+d
 
 ## Installation Instructions
-cloning the repo locally is the only way to install as of now
+d
 
 ## Usage Information
-node index is the command you can run when using node and within the ReadMeGeneratorApp directory
+d
 
 ## License
-ISC
+MIT
 
 ## Contributors
-caroline twyman
+
 
 ## Questions
 Contact me:
 
-Github: [carolinetwyman](https://github.com/carolinetwyman)
-Email: [carolinetwyman@gmail.com](https://github.com/carolinetwyman)
+Github: [d](https://github.com/carolinetwyman)
+Email: [d](https://github.com/carolinetwyman)
