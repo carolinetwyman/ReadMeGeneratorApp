@@ -46,20 +46,7 @@ const questions = [
       },
   ];
 
-// function to write README file
-
-// fs.writeFile('./readme2.txt', 'hello world', () => {
-//     console.log('file was written');
-// });
-
-// if (fs.existsSync('./deleteme.txt')) {
-//     fs.unlink('./deleteme.txt', (err) => {
-//         if (err) {
-//             console.log(err)
-//         }
-//         console.log('file deleted')
-//     })
-// }
+//write the readme file and write to the readme markdown
 
 function writetoFile(fileName, data) {
     writeFile(fileName, data,err => {
@@ -74,8 +61,6 @@ function writetoFile(fileName, data) {
 function init() {
     prompt(questions).then(answers => {
         const response = generateMarkdown(answers);
-        //console.log(answers)
-        //console.log(response)
         writetoFile("./README.md", response);
     })
 

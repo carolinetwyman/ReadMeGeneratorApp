@@ -1,6 +1,6 @@
 
   
-# ReadMe Gnerator App
+# ReadMe Generator
 
 ![project image](./imgs/inaction.png)
 
@@ -10,23 +10,22 @@
 * [Usage](#usage)
 * [License](#license)
 * [Contributors](#contributors)
-* [Test](#test)
 * [Questions](#questions)
 
 ## Description
-This app helps you generate a readme quickly and easily
+This generates ReadMes quickly and easily
 
 ## Installation Instructions
-one can install this by cloning the repo locally to their own device
+Clone the repo to one's local device
 
 ## Usage Information
-use the command node index to use the node program to run the index file
+node index
 
 ## License
 ISC
 
 ## Contributors
-caroline twyman
+Caroline Twyman
 
 ## Questions
 Contact me:
