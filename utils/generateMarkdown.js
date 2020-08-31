@@ -2,7 +2,7 @@
 function generateMarkdown(data) {
   return `
   
-  # ${data.title}
+# ${data.appname}
 
 ## Table of Contents
 * [Description](#description)
@@ -13,29 +13,26 @@ function generateMarkdown(data) {
 * [Test](#test)
 * [Questions](#questions)
 
-##Description
-${data.Description}
+## Description
+${data.description}
 
 ## Installation Instructions
-${data.Installation}
+${data.installation}
 
 ## Usage Information
-${data.Usage}
+${data.usage}
 
 ## License
-${data.License}
+${data.license}
 
 ## Contributors
-${data.Contributors}
-
-## test
-${data.Test}
+${data.contributors}
 
 ## Questions
 Contact me:
 
-Github: [${data.Username}](https://github.com/carolinetwyman)
-Email: [${data.Email}](https://github.com/carolinetwyman)
+Github: [${data.username}](https://github.com/carolinetwyman)
+Email: [${data.email}](https://github.com/carolinetwyman)
 `;
 }
 

@@ -10,13 +10,24 @@ const questions = [
       name: "appname",
       message: "please enter the name of this application"
     },{
-      type: "input",
-      name: "author",
-      message: "please enter the name of the GitHub Author "
-    },
-    {
+        type: "input",
+        name: "description",
+        message: "please describe what this project does"
+      },{
+        type: "input",
+        name: "installation",
+        message: "how can one install this app?"
+      },{
+        type: "input",
+        name: "usage",
+        message: "once installed, how can one use this app?"
+      },{
+        type: "input",
+        name: "contributors",
+        message: "please enter the name(s) of the contributing creator(s)"
+      },{
         type: "list",
-        name: "License",
+        name: "license",
         message: "Select the License",
         choices: [
             "MIT",
@@ -24,7 +35,15 @@ const questions = [
             "ISC",
             "None"
         ]
-      }
+      },{
+        type: "input",
+        name: "username",
+        message: "please enter your github username"
+      },{
+        type: "input",
+        name: "email",
+        message: "please enter your github affiliated email"
+      },
   ];
 
 // function to write README file
@@ -33,6 +52,15 @@ const questions = [
 //     console.log('file was written');
 // });
 
+// if (fs.existsSync('./deleteme.txt')) {
+//     fs.unlink('./deleteme.txt', (err) => {
+//         if (err) {
+//             console.log(err)
+//         }
+//         console.log('file deleted')
+//     })
+// }
+
 function writetoFile(fileName, data) {
     writeFile(fileName, data,err => {
         if (err) {
@@ -40,6 +68,7 @@ function writetoFile(fileName, data) {
         }
     });
 }
+
 
 // function to initialize program
 function init() {

@@ -1,6 +1,6 @@
 
   
-  # undefined
+# awesome readme generator
 
 ## Table of Contents
 * [Description](#description)
@@ -11,26 +11,23 @@
 * [Test](#test)
 * [Questions](#questions)
 
-##Description
-undefined
+## Description
+this generates a readme quickly and easily
 
 ## Installation Instructions
-undefined
+cloning the repo locally is the only way to install as of now
 
 ## Usage Information
-undefined
+node index is the command you can run when using node and within the ReadMeGeneratorApp directory
 
 ## License
 ISC
 
 ## Contributors
-undefined
-
-## test
-undefined
+caroline twyman
 
 ## Questions
 Contact me:
 
-Github: [undefined](https://github.com/carolinetwyman)
-Email: [undefined](https://github.com/carolinetwyman)
+Github: [carolinetwyman](https://github.com/carolinetwyman)
+Email: [carolinetwyman@gmail.com](https://github.com/carolinetwyman)
