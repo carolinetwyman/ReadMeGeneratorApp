@@ -33,7 +33,7 @@ ${data.contributors}
 ## Questions
 Contact me:
 
-Github: [${data.username}](https://github.com/${data.username})
+Github: [https://github.com/${data.username}](https://github.com/${data.username})
 Email: [${data.email}](${data.email})
 `;
 }

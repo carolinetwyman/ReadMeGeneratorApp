@@ -1,6 +1,6 @@
 
   
-# d
+# ReadMe Gnerator App
 
 ![project image](./imgs/inaction.png)
 
@@ -14,22 +14,22 @@
 * [Questions](#questions)
 
 ## Description
-d
+This app helps you generate a readme quickly and easily
 
 ## Installation Instructions
-d
+one can install this by cloning the repo locally to their own device
 
 ## Usage Information
-d
+use the command node index to use the node program to run the index file
 
 ## License
-MIT
+ISC
 
 ## Contributors
-
+caroline twyman
 
 ## Questions
 Contact me:
 
-Github: [d](https://github.com/carolinetwyman)
-Email: [d](https://github.com/carolinetwyman)
+Github: [https://github.com/carolinetwyman](https://github.com/carolinetwyman)
+Email: [carolinetwyman@gmail.com](carolinetwyman@gmail.com)
