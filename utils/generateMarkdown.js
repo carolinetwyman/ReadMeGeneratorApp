@@ -33,8 +33,8 @@ ${data.contributors}
 ## Questions
 Contact me:
 
-Github: [${data.username}](https://github.com/carolinetwyman)
-Email: [${data.email}](https://github.com/carolinetwyman)
+Github: [${data.username}](https://github.com/${data.username})
+Email: [${data.email}](${data.email})
 `;
 }
 
