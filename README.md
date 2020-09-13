@@ -19,7 +19,8 @@ This generates ReadMes quickly and easily
 Clone the repo to one's local device
 
 ## Usage Information
-For a walkthrough, please visit [my YouTube](https://www.youtube.com/watch?v=rYNCqZ1MwD4&t=1s&ab_channel=Caroline)
+For a walkthrough, please visit [my YouTube](https://www.youtube.com/watch?v=rYNCqZ1MwD4&t=1s&ab_channel=Caroline).
+
 To use the app, enter the ReadMeGeneratorApp Directory and type the command "node index" or "node index.js."
 
 ## License
